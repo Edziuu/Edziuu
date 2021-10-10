@@ -29,4 +29,7 @@ Praktycznie wszystko, co nie jest warte uwagi.
 - Apple - It just doesn't work
 - Osoby co prują sie o nic bo szukają kija do dupy
 
+### Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/842515404491587585.png)
+
 To na tyle o mnie.
