@@ -4,6 +4,10 @@ Jestem Edziuu
 
 Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Każde decyzje podejmuję spontanicznie 😅.
 
+
+# Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-3/842515404491587585.png)
+
 Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (Edziuu#3202, ID: 508391761681317938).
 # Moje zainteresowania:
 - JavaScript
@@ -35,8 +39,5 @@ Praktycznie wszystko, co nie jest warte uwagi.
 - Fortnite
 - Apple - It just doesn't work
 - Osoby co prują sie o nic bo szukają kija do dupy
-
-# Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-3/842515404491587585.png)
 
 To na tyle o mnie.
