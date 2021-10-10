@@ -22,6 +22,13 @@ Praktycznie wszystko, co nie jest warte uwagi.
 
     ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=Edziuu&theme=blue-green)
     ![Też statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=Edziuu&theme=blue-green)
+    
+<a href="https://github.com/FnrDev?tab=followers">
+  <img src="https://img.shields.io/github/followers/FnrDev">
+</a>
+<a href="https://github.com/FnrDev">
+   <img src="https://komarev.com/ghpvc/?username=FnrDev">
+</a>
 
 # Moja hejtlista:
 - Rafałki, Patryczki i inne dzieciaczki z Discorda, co trują życie wiecznie tymi samymi pytaniami zadawanymi na DM
