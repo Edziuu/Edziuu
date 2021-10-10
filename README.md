@@ -23,11 +23,11 @@ Praktycznie wszystko, co nie jest warte uwagi.
     ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=Edziuu&theme=blue-green)
     ![Też statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=Edziuu&theme=blue-green)
     
-<a href="https://github.com/FnrDev?tab=followers">
-  <img src="https://img.shields.io/github/followers/FnrDev">
+<a href="https://github.com/Edziuu?tab=followers">
+  <img src="https://img.shields.io/github/followers/Edziuu">
 </a>
-<a href="https://github.com/FnrDev">
-   <img src="https://komarev.com/ghpvc/?username=FnrDev">
+<a href="https://github.com/Edziuu">
+   <img src="https://komarev.com/ghpvc/?username=Edziuu">
 </a>
 
 # Moja hejtlista:
