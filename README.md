@@ -8,7 +8,7 @@ Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Ka�
 # Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-3/842515404491587585.png)
 
-Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (Edziuu#3202, ID: 508391761681317938).
+Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (! Edziu#0612, ID: 842515404491587585).
 # Moje zainteresowania:
 - JavaScript
 - Node.JS 💖
