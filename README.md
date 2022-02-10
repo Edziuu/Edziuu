@@ -8,7 +8,7 @@ Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Ka�
 # Discord Profile ✨
 ![Discord](https://discord.c99.nl/widget/theme-1/716002297498435704.png)
 
-Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (! Edziu#0612, ID: 842515404491587585).
+Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (NarkoMan么#2400, ID: 716002297498435704).
 # Moje zainteresowania:
 - JavaScript
 - Node.JS 💖
