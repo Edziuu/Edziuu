@@ -1,12 +1,12 @@
 ![Żyćko](https://img.shields.io/badge/Życie-owszem-mint.svg) ![Mózg](https://img.shields.io/badge/Mózg-100%25-mint.svg) ![Cringe](https://img.shields.io/badge/Cringe-trochę-orange.svg)
 # Siema 👋
-Jestem Edziuu
+Jestem NarkoMan
 
-Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Każde decyzje podejmuję spontanicznie 😅.
+Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Każde decyzje podejmuję spontanicznie 😅. Jesli trzeba rozpierdola psychike bachorom
 
 
 # Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-3/842515404491587585.png)
+![Discord](https://discord.c99.nl/widget/theme-1/716002297498435704.png)
 
 Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (! Edziu#0612, ID: 842515404491587585).
 # Moje zainteresowania:
